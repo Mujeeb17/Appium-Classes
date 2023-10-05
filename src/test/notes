@@ -1,0 +1,5 @@
+- success rate for mobile testing suites is 60% to 70%
+    - this is because mobiles are a lot slower so you have to put a lot
+      of waits in your scripts
+    - common question from interviews
+
